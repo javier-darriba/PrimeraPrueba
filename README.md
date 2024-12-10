@@ -9,7 +9,7 @@ Para instalar y ejecutar este proyecto:
 3. Importa el proyecto en tu IDE (fue probado y desarrollado en Eclipse).
 4. Ejecuta o modifica el archivo Viaje para probar las funcionalidades.
 
-## Descripción
+## 1.2. Descripción
 Este repositorio contiene la implementación de un ejercicio en Java evaluable que consiste en una jerarquía de clases para representar diferentes vehículos y simular su manejo. El proyecto tiene la siguiente estructura:
 
 Conducible: Interfaz que proporciona los metodos necesarios para controlar un vehiculo.
